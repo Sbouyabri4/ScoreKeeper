@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScoreCalculator</string>
+    <string name="home">Home</string>
+    <string name="guest">Guest</string>
+    <string name="score">0</string>
+    <string name="reset">Reset Score</string>
+    <string name="plus">+1</string>
+    <string name="minus">-1</string>
+</resources>
